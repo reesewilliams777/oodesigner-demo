@@ -8,6 +8,6 @@ operation:
       def execute():
           # code goes here
       # you can add additional helper methods below.
-      printf "Good Afternoon"
+      printf "Good After Evening"
   results:
     - SUCCESS
